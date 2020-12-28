@@ -25,3 +25,4 @@ typing==3.6.6
 urllib3==1.24.2
 websocket-client==0.55.0
 yarl==1.3.0
+~\viewerbot>python threads_viewer.py Ranastacioxi 1000
